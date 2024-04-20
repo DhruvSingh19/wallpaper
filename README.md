@@ -1,16 +1,6 @@
-# wallpaper
+Finished Project,
+Successfully changes your HomeScreen wallpaper.
+![Screenshot_20240420_194925](https://github.com/DhruvSingh19/wallpaper/assets/145637133/c48ff362-add8-4dfb-896d-2931e134c9aa)
+![Screenshot_20240420_194914](https://github.com/DhruvSingh19/wallpaper/assets/145637133/454d62ff-ec03-47c0-bd6a-85585040f175)
+![Screenshot_20240420_194930](https://github.com/DhruvSingh19/wallpaper/assets/145637133/e24cb784-5ef0-4712-b291-99e15b2bb366)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
